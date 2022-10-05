@@ -1,0 +1,18 @@
+{
+	"GAMEPLAY_ClothSheet" : 
+	{
+                            "Russian" : "Лоскутное одеяло"			
+    },
+    "GAMEPLAY_ClothSheetDescription" : 
+	{
+                            "Russian" : "Импровизированное одеяло, сшитое из разных лоскутков ткани."
+    },
+	"GAMEPLAY_DirtyBandage" :
+	{
+							"Russian" : "Грязная повязка"
+	},
+	"GAMEPLAY_DirtyBandageDescription" :
+	{
+							"Russian" : "Бла-бла-бла."
+	}
+}
